@@ -105,22 +105,6 @@ Modern, responsive portfolio built with **HTML, CSS & JavaScript**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitpatil05&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp. com/?user=lalitpatil05&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitpatil05&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🎯 Core Competencies
 
 ✅ Full-Stack Development  
@@ -137,6 +121,9 @@ Modern, responsive portfolio built with **HTML, CSS & JavaScript**.
 
 🎓 **Employability Enhancement Programme** - Infosys Foundation & Centum Foundation (Jan 2025)  
 🎓 **Employability Skills Training** - Rubicon Foundation (Sep 2023)
+🎓 **Java Certification** - Guvi (2024)
+🎓 **Microsoft Certification** - Microsoft Learn (2025)
+🎓 **Oracle Certification** - Oracle Learn (2025)
 
 ---
 
