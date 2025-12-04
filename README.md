@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Problem Solver | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fprofile&psig=AOvVaw2ycNWx6q7EUtIbeuCF4BtT&ust=1764905855389000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJimzemAo5EDFQAAAAAdAAAAABAE)?username=Lalit Patil&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fprofile&psig=AOvVaw2ycNWx6q7EUtIbeuCF4BtT&ust=1764905855389000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJimzemAo5EDFQAAAAAdAAAAABAE"/>
 </p>
 
 <p align="center">
