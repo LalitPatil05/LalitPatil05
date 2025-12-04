@@ -2,11 +2,11 @@
 <h3 align="center">Full Stack Developer | Problem Solver | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev. com/ghpvc/?username=lalitpatil05&label=Profile%20views&color=0e75b6&style=flat" alt="lalitpatil05" />
+  <img src="[https://lalitportfolio.kesug.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fprofile&psig=AOvVaw2ycNWx6q7EUtIbeuCF4BtT&ust=1764905855389000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJimzemAo5EDFQAAAAAdAAAAABAE)?username=Lalit Patil&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
-  <a href="https://lalitportfolio.kesug. com" target="_blank">🌐 Portfolio</a> •
+  <a href="https://lalitportfolio.kesug.com" target="_blank">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/lalitpatil05" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:lalitpatil4636@gmail.com">📧 Email</a>
 </p>
@@ -37,10 +37,10 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 ## 💻 Tech Stack
 
 ### Languages
-![Python](https://img.shields. io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C? style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,9 +63,9 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields. io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields. io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
@@ -147,15 +147,15 @@ Modern, responsive portfolio built with **HTML, CSS & JavaScript**.
 
 <p align="center">
   <a href="https://linkedin.com/in/lalitpatil05" target="_blank">
-    <img src="https://img. shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://lalitportfolio.kesug. com" target="_blank">
-    <img src="https://img. shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:lalitpatil4636@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github. com/LalitPatil05">
+  <a href="https://github.com/LalitPatil05">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
