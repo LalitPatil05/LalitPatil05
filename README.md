@@ -98,7 +98,7 @@ Dynamic **PHP-based web application** for student registration and profile manag
 🔹 User authentication & database-driven features  
 🔹 Helps students plan their career paths
 
-### 🌐 [Personal Portfolio Website](https://lalitportfolio.kesug. com)
+### 🌐 [Personal Portfolio Website](https://lalitportfolio.kesug.com)
 Modern, responsive portfolio built with **HTML, CSS & JavaScript**.   
 🔹 Showcases projects & skills professionally  
 🔹 Central hub for my work
