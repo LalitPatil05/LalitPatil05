@@ -17,7 +17,7 @@
 
 I'm a **Master's in Computer Application (MCA)** student at North Maharashtra University, Jalgaon, with a strong passion for **software development** and **problem-solving**.  I love building innovative solutions that make a real-world impact.
 
-- 🎓 **Education**: MCA (Pursuing) | B.Sc. Computer Science (86.62%)
+- 🎓 **Education**: MCA (Pursuing) | B.Sc. Computer Science (2025)
 - 💼 **Experience**: IT Engineer at Emerson EE Data Center | QA Specialist at Satish Injecto-Plast
 - 🏆 **Achievements**: Finalist at NSCII-25 National Innovation Competition | Presenter at Aavishkar 2024-25
 - 🌱 **Currently Learning**: Advanced Full Stack Development, Cloud Technologies, and AI/ML
