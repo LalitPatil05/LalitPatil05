@@ -74,34 +74,34 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 
 ### [DrainGuard: Smart Drainage Monitoring](https://github.com/LalitPatil05)
 **IoT-based prototype** using Arduino Uno and sensors to monitor underground drainage systems in real-time.  
-🔹 Detects blockages and water levels  
-🔹 Sends SMS alerts to prevent hazards  
-🔹 Recognized at **NSCII-25 National Competition**
+- Detects blockages and water levels  
+- Sends SMS alerts to prevent hazards  
+- Recognized at **NSCII-25 National Competition**
 
 ### [Library Management System](https://github.com/LalitPatil05)
-Desktop application built with **Python, Tkinter & MySQL** to digitize library operations.   
-🔹 Automates book, member & transaction management  
-🔹 Reduces manual errors & improves user experience
+- Desktop application built with **Python, Tkinter & MySQL** to digitize library operations.   
+- Automates book, member & transaction management  
+- Reduces manual errors & improves user experience
 
 ### [College Management System](https://github.com/LalitPatil05)
 Robust desktop solution using **Core Java, Swing & MySQL** for academic administration.  
-🔹 Manages student records, faculty, courses & fees  
-🔹 Secure authentication & data validation
+- Manages student records, faculty, courses & fees  
+- Secure authentication & data validation
 
 ### [WhatsApp Message Scheduler](https://github.com/LalitPatil05)
 Automation tool using **PHP, MySQL, Bootstrap & Python** to schedule WhatsApp messages.  
-🔹 Queue messages for future delivery  
-🔹 Enhances productivity through automation
+- Queue messages for future delivery  
+- Enhances productivity through automation
 
 ### [Student Career Roadmap Portal](https://github.com/LalitPatil05)
 Dynamic **PHP-based web application** for student registration and profile management.  
-🔹 User authentication & database-driven features  
-🔹 Helps students plan their career paths
+- User authentication & database-driven features  
+- Helps students plan their career paths
 
 ### [Personal Portfolio Website](https://lalitportfolio.kesug.com)
-Modern, responsive portfolio built with **HTML, CSS & JavaScript**.   
-🔹 Showcases projects & skills professionally  
-🔹 Central hub for my work
+- Modern, responsive portfolio built with **HTML, CSS & JavaScript**.   
+- Showcases projects & skills professionally  
+- Central hub for my work
 
 ---
 
