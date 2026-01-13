@@ -13,28 +13,28 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Master's in Computer Application (MCA)** student at North Maharashtra University, Jalgaon, with a strong passion for **software development** and **problem-solving**.  I love building innovative solutions that make a real-world impact.
 
-- 🎓 **Education**: MCA (Pursuing) | B.Sc. Computer Science (2025)
-- 💼 **Experience**: IT Engineer at Emerson EE Data Center | QA Specialist at Satish Injecto-Plast
-- 🏆 **Achievements**: Finalist at NSCII-25 National Innovation Competition | Presenter at Aavishkar 2024-25
-- 🌱 **Currently Learning**: Advanced Full Stack Development, Cloud Technologies, and AI/ML
-- 💡 **Interests**: IoT, Web Development, Automation, and Open Source Contribution
-- 📫 **Reach me at**: lalitpatil4636@gmail.com
+- **Education**: MCA (Pursuing) | B.Sc. Computer Science (2025)
+- **Experience**: IT Engineer at Emerson EE Data Center | QA Specialist at Satish Injecto-Plast
+- **Achievements**: Finalist at NSCII-25 National Innovation Competition | Presenter at Aavishkar 2024-25
+- **Currently Learning**: Advanced Full Stack Development, Cloud Technologies, and AI/ML
+- **Interests**: IoT, Web Development, Automation, and Open Source Contribution
+- **Reach me at**: lalitpatil4636@gmail.com
 
 ---
 
-## 🏆 Awards & Recognition
+## Awards & Recognition
 
-🥇 **Finalist** - National Level Innovation Competition (NSCII-25) for **DrainGuard** IoT Project  
-🎤 **Presenter** - University Research Convention (Aavishkar 2024-25)  
-🎨 **Participant** - Intercollegiate Youth Festival (YUVARANG 2024-25)  
+**Finalist** - National Level Innovation Competition (NSCII-25) for **DrainGuard** IoT Project  
+**Presenter** - University Research Convention (Aavishkar 2024-25)  
+**Participant** - Intercollegiate Youth Festival (YUVARANG 2024-25)  
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,72 +70,72 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 🚰 [DrainGuard: Smart Drainage Monitoring](https://github.com/LalitPatil05)
+### [DrainGuard: Smart Drainage Monitoring](https://github.com/LalitPatil05)
 **IoT-based prototype** using Arduino Uno and sensors to monitor underground drainage systems in real-time.  
 🔹 Detects blockages and water levels  
 🔹 Sends SMS alerts to prevent hazards  
 🔹 Recognized at **NSCII-25 National Competition**
 
-### 📚 [Library Management System](https://github.com/LalitPatil05)
+### [Library Management System](https://github.com/LalitPatil05)
 Desktop application built with **Python, Tkinter & MySQL** to digitize library operations.   
 🔹 Automates book, member & transaction management  
 🔹 Reduces manual errors & improves user experience
 
-### 🎓 [College Management System](https://github.com/LalitPatil05)
+### [College Management System](https://github.com/LalitPatil05)
 Robust desktop solution using **Core Java, Swing & MySQL** for academic administration.  
 🔹 Manages student records, faculty, courses & fees  
 🔹 Secure authentication & data validation
 
-### 💬 [WhatsApp Message Scheduler](https://github.com/LalitPatil05)
+### [WhatsApp Message Scheduler](https://github.com/LalitPatil05)
 Automation tool using **PHP, MySQL, Bootstrap & Python** to schedule WhatsApp messages.  
 🔹 Queue messages for future delivery  
 🔹 Enhances productivity through automation
 
-### 🛤️ [Student Career Roadmap Portal](https://github.com/LalitPatil05)
+### [Student Career Roadmap Portal](https://github.com/LalitPatil05)
 Dynamic **PHP-based web application** for student registration and profile management.  
 🔹 User authentication & database-driven features  
 🔹 Helps students plan their career paths
 
-### 🌐 [Personal Portfolio Website](https://lalitportfolio.kesug.com)
+### [Personal Portfolio Website](https://lalitportfolio.kesug.com)
 Modern, responsive portfolio built with **HTML, CSS & JavaScript**.   
 🔹 Showcases projects & skills professionally  
 🔹 Central hub for my work
 
 ---
 
-## 🎯 Core Competencies
+## Core Competencies
 
-✅ Full-Stack Development  
-✅ Database Design & Management  
-✅ Object-Oriented Programming (OOP)  
-✅ Problem-Solving & Analytical Thinking  
-✅ Agile Methodologies & Collaboration  
-✅ Rapid Learning & Adaptability  
-✅ Effective Communication & Teamwork  
+Full-Stack Development  
+Database Design & Management  
+Object-Oriented Programming (OOP)  
+Problem-Solving & Analytical Thinking  
+Agile Methodologies & Collaboration  
+Rapid Learning & Adaptability  
+Effective Communication & Teamwork  
 
 ---
 
 ## 📜 Certifications
 
-🎓 **Employability Enhancement Programme** - Infosys Foundation & Centum Foundation (Jan 2025)  
-🎓 **Employability Skills Training** - Rubicon Foundation (Sep 2023)
-🎓 **Java Certification** - Guvi (2024)
-🎓 **Microsoft Certification** - Microsoft Learn (2025)
-🎓 **Oracle Certification** - Oracle Learn (2025)
+- **Employability Enhancement Programme** - Infosys Foundation & Centum Foundation (Jan 2025)  
+- **Employability Skills Training** - Rubicon Foundation (Sep 2023)
+- **Java Certification** - Guvi (2024)
+- **Microsoft Certification** - Microsoft Learn (2025)
+- **Oracle Certification** - Oracle Learn (2025)
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🔧 Information Technology Engineer | Emerson EE Data Center, Nashik
+### Information Technology Engineer | Emerson EE Data Center, Nashik
 **August 2025 – October 2025**
 - Applied IT engineering principles to support internal systems
 - Collaborated with cross-functional teams for troubleshooting
 - Gained hands-on experience with enterprise-level IT processes
 
-### ✅ Quality Assurance Specialist | Satish Injecto-Plast Pvt. Ltd., Nashik
+### Quality Assurance Specialist | Satish Injecto-Plast Pvt. Ltd., Nashik
 **May 2024 – August 2024**
 - Executed quality control procedures for product compliance
 - Conducted inspections and documentation
@@ -143,7 +143,7 @@ Modern, responsive portfolio built with **HTML, CSS & JavaScript**.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/lalitpatil05" target="_blank">
