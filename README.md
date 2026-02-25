@@ -70,11 +70,11 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 
 ## Tech Stack (Chart)
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitPatil05&layout=compact&theme=dark&hide_border=false"
-    height="165"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitPatil05&layout=compact&theme=dark&hide_border=false&v=1"
+  alt="Top Languages"
+  height="165"
+/>
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=LalitPatil05&theme=dark&hide_border=false"
     alt="GitHub Streak"
