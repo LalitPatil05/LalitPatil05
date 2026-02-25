@@ -93,13 +93,14 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 
 ---
 
-### 🏛️ [Nashik District Council Dashboard Portal](https://github.com/LalitPatil05/district-council-nashik-dashboard))
-> **The Flagship Application:** A production-ready, security-first management system for government welfare distribution.
-
-* **Tech Stack:** `Laravel 12`, `Tailwind CSS 4`, `MySQL`, `Vite`, `Redis`.
-* **Key Innovation:** Built a **Visual No-Code Form Builder** allowing admins to create complex, bilingual (Marathi/English) application forms dynamically.
-* **Security:** Implemented an **OTP Abuse Protection Engine**, IP-based blocking, and a comprehensive Audit Trail for admin actions.
-* **Performance:** Optimized with database indexing and polymorphic relationships to handle thousands of application records.
+### 🏛️ [Nashik Zilla Parishad Digital Dashboard](https://github.com/LalitPatil05/district-council-nashik-dashboard)
+> **E-Governance & Impact:** A centralized district-level platform digitizing rural development and welfare schemes for Nashik, Maharashtra.
+* **Tech Stack:** `Next.js 16 (App Router)`, `MongoDB`, `Mongoose`, `Tailwind CSS`, `NextAuth.js`.
+* **The Problem:** Replaced fragmented paper-based records and Excel sheets that caused 2-3 hour delays in report generation.
+* **The Solution:** A unified platform handling **10,000+ records** with specialized modules for Agriculture (Subsidies), Water (Jal Jeevan Mission), and Housing (PMAY-G).
+* **Key Features:** * **Analytics:** Real-time KPI tracking with interactive trend charts.
+    * **Security:** Role-Based Access Control for 7 distinct officer roles and full action audit logs.
+    * **Efficiency:** Automated data validation and bulk import/export capabilities, achieving a **95% reduction** in administrative overhead.
 
 ---
 
