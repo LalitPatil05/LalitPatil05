@@ -70,10 +70,9 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 
 ## Tech Stack (Chart)
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitPatil05&layout=compact&theme=dark&hide_border=false"
-    alt="Top Languages"
     height="165"
   />
   <img
