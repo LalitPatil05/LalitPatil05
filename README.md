@@ -5,7 +5,7 @@
   <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fprofile&psig=AOvVaw2ycNWx6q7EUtIbeuCF4BtT&ust=1764905855389000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJimzemAo5EDFQAAAAAdAAAAABAE"/>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://lalitportfolio.kesug.com" target="_blank">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/lalitpatil05" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:lalitpatil4636@gmail.com">📧 Email</a>
@@ -71,7 +71,7 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=LalitPatil05&theme=dark&hide_border=false"
     alt="GitHub Streak"
@@ -81,38 +81,56 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
-### [DrainGuard: Smart Drainage Monitoring](https://github.com/LalitPatil05)
-**IoT-based prototype** using Arduino Uno and sensors to monitor underground drainage systems in real-time.  
-- Detects blockages and water levels  
-- Sends SMS alerts to prevent hazards  
-- Recognized at **NSCII-25 National Competition**
+### 🏛️ [Government Scheme Portal - Enterprise Edition](https://github.com/LalitPatil05)
+> **The Flagship Application:** A production-ready, security-first management system for government welfare distribution.
 
-### [Library Management System](https://github.com/LalitPatil05)
-- Desktop application built with **Python, Tkinter & MySQL** to digitize library operations.   
-- Automates book, member & transaction management  
-- Reduces manual errors & improves user experience
+* **Tech Stack:** `Laravel 12`, `Tailwind CSS 4`, `MySQL`, `Vite`, `Redis`.
+* **Key Innovation:** Built a **Visual No-Code Form Builder** allowing admins to create complex, bilingual (Marathi/English) application forms dynamically.
+* **Security:** Implemented an **OTP Abuse Protection Engine**, IP-based blocking, and a comprehensive Audit Trail for admin actions.
+* **Performance:** Optimized with database indexing and polymorphic relationships to handle thousands of application records.
 
-### [College Management System](https://github.com/LalitPatil05)
-Robust desktop solution using **Core Java, Swing & MySQL** for academic administration.  
-- Manages student records, faculty, courses & fees  
-- Secure authentication & data validation
+---
 
-### [WhatsApp Message Scheduler](https://github.com/LalitPatil05)
-Automation tool using **PHP, MySQL, Bootstrap & Python** to schedule WhatsApp messages.  
-- Queue messages for future delivery  
-- Enhances productivity through automation
+### 🌊 [DrainGuard: Smart Drainage Monitoring](https://github.com/LalitPatil05)
+> **IoT Innovation:** Real-time underground drainage monitoring to prevent urban flooding and hazards.
 
-### [Student Career Roadmap Portal](https://github.com/LalitPatil05)
-Dynamic **PHP-based web application** for student registration and profile management.  
-- User authentication & database-driven features  
-- Helps students plan their career paths
+* **Recognition:** Recognized at the **NSCII-25 National Competition**.
+* **Tech Stack:** `Arduino Uno`, `IoT Sensors`, `GSM Module`.
+* **Summary:** Uses ultrasonic sensors to detect blockages and water levels, sending automated SMS alerts to municipal authorities.
 
-### [Personal Portfolio Website](https://lalitportfolio.kesug.com)
-- Modern, responsive portfolio built with **HTML, CSS & JavaScript**.   
-- Showcases projects & skills professionally  
-- Central hub for my work
+---
+
+### 📅 [WhatsApp Message Scheduler](https://github.com/LalitPatil05)
+> **Automation Tool:** A productivity utility designed to automate bulk messaging and scheduling.
+
+* **Tech Stack:** `PHP`, `Python`, `MySQL`, `Bootstrap 5`.
+* **Summary:** A hybrid system using PHP for the management dashboard and Python for the automation engine to queue and deliver messages.
+
+---
+
+### 🎓 [Student Career Roadmap Portal](https://github.com/LalitPatil05)
+> **Educational Ecosystem:** A dynamic platform helping students navigate their technology career journeys.
+
+* **Tech Stack:** `PHP`, `React.js`, `MySQL`, `RESTful APIs`.
+* **Summary:** Features visual progress indicators, achievement systems, and a CRUD-based personalized roadmap generator.
+
+---
+
+### 📚 [Library Management System](https://github.com/LalitPatil05)
+> **Desktop Utility:** Digitizing traditional library operations for higher efficiency.
+
+* **Tech Stack:** `Python`, `Tkinter`, `MySQL`.
+* **Summary:** Automates the lifecycle of book issuance, member tracking, and transaction history with a focus on data integrity.
+
+---
+
+### 🏢 [College Management System](https://github.com/LalitPatil05)
+> **Administrative Software:** Robust solution for centralized academic data management.
+
+* **Tech Stack:** `Core Java`, `Swing (GUI)`, `MySQL`.
+* **Summary:** Secure desktop application for managing student records, faculty modules, and fee collections using high-level OOP principles.
 
 ---
 
