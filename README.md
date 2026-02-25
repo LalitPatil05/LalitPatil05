@@ -68,13 +68,10 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## Tech Stack (Chart)
+---
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalitPatil05&layout=compact&theme=dark&hide_border=false&hide=html,css"
-  alt="Top Languages"
-  height="165"
-/>
+### 📊 GitHub Stats:
+<p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=LalitPatil05&theme=dark&hide_border=false"
     alt="GitHub Streak"
