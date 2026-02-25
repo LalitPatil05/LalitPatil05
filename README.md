@@ -83,7 +83,7 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 
 ## 🌟 Featured Projects
 
-### 🏛️ [Government Scheme Portal - Enterprise Edition]([https://github.com/LalitPatil05](https://github.com/LalitPatil05/gov-scheme-laravel))
+### 🏛️ [Government Scheme Portal - Enterprise Edition](https://github.com/LalitPatil05/gov-scheme-laravel))
 > **The Flagship Application:** A production-ready, security-first management system for government welfare distribution.
 
 * **Tech Stack:** `Laravel 12`, `Tailwind CSS 4`, `MySQL`, `Vite`, `Redis`.
@@ -93,7 +93,7 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 
 ---
 
-### 🏛️ [Nashik District Council Dashboard Portal]([https://github.com/LalitPatil05](https://github.com/LalitPatil05/district-council-nashik-dashboard))
+### 🏛️ [Nashik District Council Dashboard Portal](https://github.com/LalitPatil05/district-council-nashik-dashboard))
 > **The Flagship Application:** A production-ready, security-first management system for government welfare distribution.
 
 * **Tech Stack:** `Laravel 12`, `Tailwind CSS 4`, `MySQL`, `Vite`, `Redis`.
