@@ -5,7 +5,7 @@
   <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fprofile&psig=AOvVaw2ycNWx6q7EUtIbeuCF4BtT&ust=1764905855389000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJimzemAo5EDFQAAAAAdAAAAABAE"/>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://lalitportfolio.kesug.com" target="_blank">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/lalitpatil05" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:lalitpatil4636@gmail.com">📧 Email</a>
@@ -83,7 +83,17 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 
 ## 🌟 Featured Projects
 
-### 🏛️ [Government Scheme Portal - Enterprise Edition](https://github.com/LalitPatil05)
+### 🏛️ [Government Scheme Portal - Enterprise Edition]([https://github.com/LalitPatil05](https://github.com/LalitPatil05/gov-scheme-laravel))
+> **The Flagship Application:** A production-ready, security-first management system for government welfare distribution.
+
+* **Tech Stack:** `Laravel 12`, `Tailwind CSS 4`, `MySQL`, `Vite`, `Redis`.
+* **Key Innovation:** Built a **Visual No-Code Form Builder** allowing admins to create complex, bilingual (Marathi/English) application forms dynamically.
+* **Security:** Implemented an **OTP Abuse Protection Engine**, IP-based blocking, and a comprehensive Audit Trail for admin actions.
+* **Performance:** Optimized with database indexing and polymorphic relationships to handle thousands of application records.
+
+---
+
+### 🏛️ [Nashik District Council Dashboard Portal]([https://github.com/LalitPatil05](https://github.com/LalitPatil05/district-council-nashik-dashboard))
 > **The Flagship Application:** A production-ready, security-first management system for government welfare distribution.
 
 * **Tech Stack:** `Laravel 12`, `Tailwind CSS 4`, `MySQL`, `Vite`, `Redis`.
@@ -102,7 +112,7 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 
 ---
 
-### 📅 [WhatsApp Message Scheduler](https://github.com/LalitPatil05)
+### 📅 [WhatsApp Message Scheduler](https://github.com/LalitPatil05/whatsapp-scheduler)
 > **Automation Tool:** A productivity utility designed to automate bulk messaging and scheduling.
 
 * **Tech Stack:** `PHP`, `Python`, `MySQL`, `Bootstrap 5`.
@@ -110,7 +120,7 @@ I'm a **Master's in Computer Application (MCA)** student at North Maharashtra Un
 
 ---
 
-### 🎓 [Student Career Roadmap Portal](https://github.com/LalitPatil05)
+### 🎓 [Student Career Roadmap Portal](https://github.com/LalitPatil05/TechFriends-Student-Career-Roadmap-Registration-System)
 > **Educational Ecosystem:** A dynamic platform helping students navigate their technology career journeys.
 
 * **Tech Stack:** `PHP`, `React.js`, `MySQL`, `RESTful APIs`.
